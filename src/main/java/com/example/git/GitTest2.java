@@ -10,5 +10,6 @@ public class GitTest2 {
         System.out.println("master test");
         System.out.println("master test");
         System.out.println("master test4");
+        String a ="1";
     }
 }
